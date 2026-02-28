@@ -1,4 +1,4 @@
-# spark_practice 🔥
+# spark_practice 
 
 > A local PySpark practice environment using Docker, Apache Spark, MinIO (S3-compatible storage), and Jupyter Lab.
 
